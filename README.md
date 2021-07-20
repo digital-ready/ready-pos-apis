@@ -1,2 +1,2 @@
-# ready-pos-services
+# ready-pos-apis
 Ready POS - Services
