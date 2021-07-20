@@ -1,2 +1,2 @@
-# ready-pos
-Ready POS
+# ready-pos-services
+Ready POS - Services
